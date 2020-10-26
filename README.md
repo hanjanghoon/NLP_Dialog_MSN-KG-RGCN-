@@ -15,5 +15,7 @@ https://www.dbpedia-spotlight.org/
 https://arxiv.org/pdf/1703.06103.pdf
 
 Multi-hop selector에 knoweledg graph entity 정보를 융합하여 성능 향상시킴
+
 kg로 dbpedia를 사용하여 entity와 abstract정보로 graph를 구성
+
 Towards Knowledge-Based Recommender Dialog System에서 사용된 Relational Graph Convolutional Networks (R-GCNs)를 적용하여 embedding을 만들어서 기존 score fucntion 과 융합.
