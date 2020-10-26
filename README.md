@@ -14,6 +14,8 @@ https://www.dbpedia-spotlight.org/
 ### Modeling Relational Data with Graph Convolutional Networks
 https://arxiv.org/pdf/1703.06103.pdf
 
+Ubuntu data V1, Response selection
+
 Multi-hop selector에 knoweledg graph entity 정보를 융합하여 성능 향상시킴
 
 kg로 dbpedia를 사용하여 entity와 abstract정보로 graph를 구성
