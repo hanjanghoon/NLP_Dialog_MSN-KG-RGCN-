@@ -30,7 +30,7 @@ dbpedia의 triple 파일인 mappingbased_objects_en.ttl 을 사용하여 subkg�
 본격적인 알고리즘 구축. torch_geometric.nn.conv. 제공하는 rgcn_conv를 활용하여 구축 이때 edgelist를 통해 relation 중 특정 갯수이상 나타나는 relation을 가진 트리플에 대해서만 구축.
 이렇게 구한 entity feature들은 문장 정보와 함께 활용됨. 
 Towards Knowledge-Based Recommender Dialog System에서 사용된 Relational Graph Convolutional Networks (R-GCNs)를 적용하여 embedding을 만들어서 기존 score fucntion 과 융합.
+<img src="https://user-images.githubusercontent.com/32722198/99932986-09a73300-2d9d-11eb-8783-d0c7a7404ba5.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/32722198/99933032-2cd1e280-2d9d-11eb-9c05-5146e0326ff5.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/32722198/99933036-2fccd300-2d9d-11eb-9c0d-e71d41e661bb.jpg" width="400">
 
-![2020  02  19 한장훈 Towards Knowledge-Based Recommender Dialog System0](https://user-images.githubusercontent.com/32722198/99932986-09a73300-2d9d-11eb-8783-d0c7a7404ba5.jpg)
-![2020  02  19 한장훈 Towards Knowledge-Based Recommender Dialog System1](https://user-images.githubusercontent.com/32722198/99933032-2cd1e280-2d9d-11eb-9c05-5146e0326ff5.jpg)
-![2020  02  19 한장훈 Towards Knowledge-Based Recommender Dialog System](https://user-images.githubusercontent.com/32722198/99933036-2fccd300-2d9d-11eb-9c0d-e71d41e661bb.jpg)
