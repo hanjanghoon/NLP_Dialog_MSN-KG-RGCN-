@@ -32,3 +32,5 @@ dbpedia의 triple 파일인 mappingbased_objects_en.ttl 을 사용하여 subkg�
 Towards Knowledge-Based Recommender Dialog System에서 사용된 Relational Graph Convolutional Networks (R-GCNs)를 적용하여 embedding을 만들어서 기존 score fucntion 과 융합.
 
 ![2020  02  19 한장훈 Towards Knowledge-Based Recommender Dialog System0](https://user-images.githubusercontent.com/32722198/99932986-09a73300-2d9d-11eb-8783-d0c7a7404ba5.jpg)
+![2020  02  19 한장훈 Towards Knowledge-Based Recommender Dialog System1](https://user-images.githubusercontent.com/32722198/99933032-2cd1e280-2d9d-11eb-9c05-5146e0326ff5.jpg)
+![2020  02  19 한장훈 Towards Knowledge-Based Recommender Dialog System](https://user-images.githubusercontent.com/32722198/99933036-2fccd300-2d9d-11eb-9c0d-e71d41e661bb.jpg)
